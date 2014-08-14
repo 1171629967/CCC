@@ -6,7 +6,7 @@
  
  A simple BOOL tracks whether or not a download is already in progress to avoid redundant requests.
   
-  Version: 1.11
+  Version: 1.2
   
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple 
  Inc. ("Apple") in consideration of your agreement to the following 
